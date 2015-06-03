@@ -1,4 +1,4 @@
-Create an Alfresco docker image.
+# Create an Alfresco docker image.
 
 Run this command:
 
